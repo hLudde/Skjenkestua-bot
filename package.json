@@ -20,7 +20,6 @@
   "homepage": "https://github.com/hLudde/Skjenkestua-bot#readme",
   "dependencies": {
     "discord.js": "^12.0.2",
-    "dotenv": "^8.2.0",
-    "sqlite3": "^4.1.1"
+    "dotenv": "^8.2.0"
   }
 }
