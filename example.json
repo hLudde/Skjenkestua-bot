@@ -1,0 +1,104 @@
+{
+    "totals": {
+        "confirmed": 1056,
+        "dead": 3,
+        "recovered": 1
+    },
+    "cases": [
+        {
+            "confirmed": 222,
+            "dead": 1,
+            "recovered": 1,
+            "confirmedPer1kCapita": 0.32011812647261545,
+            "name": "Oslo",
+            "countyCode": "03"
+        },
+        {
+            "confirmed": 148,
+            "dead": 0,
+            "recovered": 0,
+            "confirmedPer1kCapita": 0.3084027239462212,
+            "name": "Rogaland",
+            "countyCode": "11"
+        },
+        {
+            "confirmed": 71,
+            "dead": 0,
+            "recovered": 0,
+            "confirmedPer1kCapita": 0.23109647138472356,
+            "name": "Agder",
+            "countyCode": "42"
+        },
+        {
+            "confirmed": 274,
+            "dead": 0,
+            "recovered": 0,
+            "confirmedPer1kCapita": 0.22076033404100182,
+            "name": "Viken",
+            "countyCode": "30"
+        },
+        {
+            "confirmed": 73,
+            "dead": 0,
+            "recovered": 0,
+            "confirmedPer1kCapita": 0.196561519716736,
+            "name": "Innlandet",
+            "countyCode": "34"
+        },
+        {
+            "confirmed": 101,
+            "dead": 0,
+            "recovered": 0,
+            "confirmedPer1kCapita": 0.1586725548323648,
+            "name": "Vestland",
+            "countyCode": "46"
+        },
+        {
+            "confirmed": 60,
+            "dead": 0,
+            "recovered": 0,
+            "confirmedPer1kCapita": 0.14306288090492042,
+            "name": "Vestfold og Telemark",
+            "countyCode": "38"
+        },
+        {
+            "confirmed": 62,
+            "dead": 0,
+            "recovered": 0,
+            "confirmedPer1kCapita": 0.1322802121603919,
+            "name": "Tr\u00f8ndelag",
+            "countyCode": "50"
+        },
+        {
+            "confirmed": 17,
+            "dead": 0,
+            "recovered": 0,
+            "confirmedPer1kCapita": 0.06986942637200948,
+            "name": "Troms og Finnmark",
+            "countyCode": "54"
+        },
+        {
+            "confirmed": 16,
+            "dead": 0,
+            "recovered": 0,
+            "confirmedPer1kCapita": 0.06032318144458939,
+            "name": "M\u00f8re og Romsdal",
+            "countyCode": "15"
+        },
+        {
+            "confirmed": 8,
+            "dead": 0,
+            "recovered": 0,
+            "confirmedPer1kCapita": 0.03316268369017762,
+            "name": "Nordland",
+            "countyCode": "18"
+        },
+        {
+            "confirmed": 4,
+            "dead": 0,
+            "recovered": 0,
+            "confirmedPer1kCapita": 0,
+            "name": "Ukjent"
+        }
+    ]
+}
