@@ -1,5 +1,4 @@
 const discord = require('discord.js')
-const db = require("../db")
 /**
  * 
  * @param {int} argc 
@@ -15,20 +14,7 @@ function run(argc, argv, message, client){
     if(argc<3){
         return
     }
-    if(argv[2]==="add"){
-        if(argc!=4){
-            return
-        }
-        client.channels.fetch(argv[3])
-            .then((channel)=>{
-                return db.serialize(()=>{
-                    db.run("INSERT OR REPLACE INTO channels VALUES (?,?)",[channel.id, "covid"])
-                })
-            })
-            .catch((e)=>{
-                console.log(e);
-            })
-    }
+    return
 }
 
 module.exports = run

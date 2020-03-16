@@ -1,4 +1,5 @@
 sqlite3.db
+example.json
 
 # Created by https://www.gitignore.io/api/node,dotenv,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=node,dotenv,visualstudiocode

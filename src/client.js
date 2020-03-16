@@ -4,10 +4,10 @@ const commander = require('./commander')
 const client = new discord.Client()
 
 client.on("ready", ()=>{
+    require("./services/covid")
     console.log("Im ready to go!")
     client.user.setActivity({name:`${process.env.COMMAND_PREFIX} help`,})
 })
-
 client.on("message", (message)=>{
     if(message.author.bot||message.author.id===client.user.id){
         return
