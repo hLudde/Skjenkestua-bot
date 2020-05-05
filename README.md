@@ -1,1 +1,3 @@
 # Skjenkestua bot
+woooow
+ asdasddadas
